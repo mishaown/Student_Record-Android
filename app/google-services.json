@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "624892753527",
+    "firebase_url": "https://jxnu-5321d.firebaseio.com",
+    "project_id": "jxnu-5321d",
+    "storage_bucket": "jxnu-5321d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:624892753527:android:1308073a4f4f851fb83872",
+        "android_client_info": {
+          "package_name": "com.example.student_record"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "624892753527-vmj5n6bm7p3ff71f7eaai85kl55ggtsf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAl2kPeNhT2sZ3hEf_bFfFcSjFIFQ-FAUE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "624892753527-vmj5n6bm7p3ff71f7eaai85kl55ggtsf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.student_record">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/jxnu"
+        android:label="Student Record"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name=".SchoolView"></activity>
+        <activity android:name=".CourseInfo" />
+        <activity android:name=".ClassRoutine" />
+        <activity android:name=".Sign_in" />
+        <activity android:name=".ForgetPassword" />
+        <activity android:name=".AddStudent_CST" />
+        <activity android:name=".Student_CST" />
+        <activity android:name=".AddTeacher_CST" />
+        <activity android:name=".Teacher_CST" />
+        <activity android:name=".course" />
+        <activity android:name=".CST" />
+        <activity android:name=".MainActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>
